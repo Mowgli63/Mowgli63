@@ -1,6 +1,6 @@
 <h2><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🤗</g-emoji> Hi, I'm Mowgli:</h2>
 
-- I'm Owner and Software Enginer of [Slide](https://discord.gg/mHkPaXuJPb)
+- I'm Owner and Software Enginer of [AF Life](https://discord.gg/aflife)
 - My Favorite Programming Language is Lua because it's funny.
 - I mostly use [Visual Studio Code](https://code.visualstudio.com/) for coding because it's the better IDE i think.
 
@@ -23,8 +23,7 @@
 ​
 <h2><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">📚</g-emoji> Project:</h2>
 
-<img align="left" alt="" href="https://discord.gg/YmRvYEZjSc" width="128px" src="https://i.imgur.com/fToewpq.png" />
-<img align="middle" alt="" href="https://discord.gg/mHkPaXuJPb" width="128px" src="https://i.imgur.com/ik79Yum.jpg" />
+<img align="left" alt="" href="https://discord.gg/aflife" width="128px" src="(https://r2.fivemanage.com/nmGFx6dnlBosvT7J7iMPB/image1.png)" />
 
 <h2><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🦓</g-emoji> Contact Me:</h2>
 <img align="middle" alt="" href="https://discord." width="512px" src="https://discord.c99.nl/widget/theme-5/887788674782208031.png" />
